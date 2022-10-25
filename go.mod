@@ -1,3 +1,3 @@
-module github.com/cocoonspace/fsm
+module github.com/Bluebugs/fsm
 
 go 1.16
